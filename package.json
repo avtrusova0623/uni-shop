@@ -1,0 +1,23 @@
+{
+  "name": "uni-shop",
+  "version": "1.0.0",
+  "description": "1. scss依赖",
+  "main": "main.js",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avtrusova0623/uni-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avtrusova0623/uni-shop/issues"
+  },
+  "homepage": "https://github.com/avtrusova0623/uni-shop#readme"
+}
